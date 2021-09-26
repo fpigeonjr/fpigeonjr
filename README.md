@@ -8,4 +8,4 @@
 - 📫 How to reach me: frank.pigeonjr@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Grew up in Panama, served in the US Army, enjoying family life, and reading books. 
-Read more on my website [frankpigeon.com](https://frankpigeon.com)
+- Read more on my website [frankpigeon.com](https://frankpigeon.com)
