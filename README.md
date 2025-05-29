@@ -1,7 +1,7 @@
-### Hello world 👋 
+# Hello World 
 
 - 🔭 I’m currently working on Front End projects for the US Government
-- 🌱 I’m currently learning JavaScript | TypeScript | Python
+- 🌱 I’m currently learning JavaScript | TypeScript | Python | HTML | CSS
 - 👯 I’m looking to collaborate on Front End projects or design systems
 - 🤔 I’m looking for help with growing as a Front End Engineer
 - 💬 Ask me about life as an apprentice of Jesus
